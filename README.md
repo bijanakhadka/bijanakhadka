@@ -6,7 +6,7 @@ Curious about data and driven by the excitement of discovering patterns, solving
 
 📍 Butwal, Nepal
 
-[![Email](https://img.shields.io/badge/Email-bijanakhdkabk07%40gmail.com-000000?style=flat-square&logo=gmail)](mailto:bijanakhdkabk07@gmail.com)
+[![Email](https://img.shields.io/badge/Email-bijanakhadkabk07%40gmail.com-000000?style=flat-square&logo=gmail)](mailto:bijanakhdkabk07@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bijana-khadka-584527329)
 [![GitHub](https://img.shields.io/badge/GitHub-bijanakhadka-000000?style=flat-square&logo=github)](https://github.com/bijanakhadka)
 
